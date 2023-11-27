@@ -3,5 +3,5 @@ scikit-learn
 opencv-python
 numpy
 tqdm
-PIL
+Pillow
 matplotlib
